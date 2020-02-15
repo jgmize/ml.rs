@@ -7,3 +7,9 @@ This repo started with [[https://github.com/gregtatum][@gregtatum]] playing arou
 #+begin_src bash :session rust :results silent
 cargo run --example basic
 #+end_src
+
+** Other Resources
+  - Bindings
+    - [[https://github.com/LaurentMazare/tch-rs][PyTorch (libtorch)]]
+    - [[https://github.com/tensorflow/rust][Tensorflow]]
+  - [[https://www.arewelearningyet.com][Are we learning yet?]]
