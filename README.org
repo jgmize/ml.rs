@@ -1,0 +1,9 @@
+* ml.rs
+
+This repo started with [[https://github.com/gregtatum][@gregtatum]] playing around with neural network ideas from
+ [[https://www.youtube.com/watch?v=aircAruvnKk&list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi][3Blue1Brown's YouTube series]] in [[https://www.rust-lang.org][rust]]. 
+
+** Run Basic Examples
+#+begin_src bash :session rust :results silent
+cargo run --example basic
+#+end_src
